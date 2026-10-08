@@ -1,0 +1,8 @@
+{
+  "name": "uniteperformance-public",
+  "version": "1.0.0",
+  "description": "Find published Unite Performance training, prices, centres and events with public read-only tools.",
+  "author": { "name": "Unite Performance", "url": "https://new.uniteperformance.no" },
+  "homepage": "https://new.uniteperformance.no/agent-docs.md",
+  "keywords": ["uniteperformance", "training", "public-information", "webmcp", "mcp"]
+}
