@@ -1,6 +1,6 @@
 ---
 name: uniteperformance-web
-description: Find published Unite Performance training, membership prices, centres, events and public terms in Tønsberg and Larvik, Norway.
+description: Find published Unite Performance training, membership prices, centres, events and public terms in Norway.
 ---
 
 # Unite Performance public information
@@ -16,7 +16,9 @@ The current site under evaluation is https://new.uniteperformance.no. Shared pre
 https://dev.uniteperformance.no. Keep discovery navigation on the site the user chose. Check its
 `/agent-docs.md` and `/.well-known/ai-catalog.json` before connecting tools. If a deployment does
 not yet advertise a capability, use its public Markdown/HTML or report that capability unavailable.
-SEO canonical links to www describe the future migration; they do not move a tool to Squarespace.
+The current canonical SEO origin is https://new.uniteperformance.no. The future production
+origin and planned MCP registry identity are https://uniteperformance.no. Until the separately
+approved apex cutover, do not move tool requests to the Squarespace site.
 
 ## Find published facts
 

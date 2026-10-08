@@ -49,5 +49,7 @@ tokens to impersonate a user.
 
 ## Directory listing
 
-[skills.sh](https://skills.sh/docs/faq) lists skills through genuine installations recorded by its
-CLI. Publishing this package does not itself establish a directory listing, endorsement or audit.
+The published [skills.sh listing](https://skills.sh/frodeste/uniteperformance-agent-skills/uniteperformance-web)
+links this repository and skill. A directory listing is not a security endorsement or audit.
+The future production identity is https://uniteperformance.no; use the current new-site tools
+until the separately approved apex cutover.
